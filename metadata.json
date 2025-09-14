@@ -1,0 +1,7 @@
+{
+  "name": "ITSY English",
+  "description": "An AI-powered, gamified application for C2 English certification preparation, focusing on Reading, Writing, Speaking, and Listening skills with personalized, real-time missions and feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
